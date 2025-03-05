@@ -1,3 +1,10 @@
-baseURL = 'https://example.org/'
-languageCode = 'en-us'
-title = 'My New Hugo Site'
+baseURL = "https://blog.shekkari1999.github.io/"
+languageCode = "en-us"
+title = "Akhil's AI Research Hub"
+theme = "PaperMod"  # This should match exactly!
+
+[params]
+    author = "Akhil Shekkari"
+    description = "Deep Learning, Reinforcement Learning, and AI Research"
+    showReadingTime = true
+    defaultTheme = "dark" # Enables dark mode
