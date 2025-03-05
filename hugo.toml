@@ -1,7 +1,7 @@
 baseURL = "https://blog.shekkari1999.github.io/"
 languageCode = "en-us"
 title = "Akhil's AI Research Hub"
-theme = "PaperMod"  # This should match exactly!
+theme = "Loveit"  # This should match exactly!
 
 [params]
     author = "Akhil Shekkari"
